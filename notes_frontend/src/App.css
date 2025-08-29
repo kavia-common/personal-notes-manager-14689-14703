@@ -1,0 +1,9 @@
+/* App.css kept minimal – main layout styles are in index.css */
+:root {
+  /* Primary palette per requirements */
+  --primary: #1976d2;
+  --secondary: #424242;
+  --accent: #ffeb3b;
+}
+
+/* optional accents or component-specific overrides could be placed here */
